@@ -1,0 +1,21 @@
+[
+    {
+        "City": "Indore",
+        "CommunityName": "GDG Indore",
+        "DevFestName": "DevFest Indore",
+        "Days": "1",
+        "StartingDate": "2024-12-07",
+        "EndingDate": "2024-12-07",
+        "Venue": "Indore",
+        "Description": "",
+        "EventLink": "",
+        "CommunityPage": "",
+        "Visible": "true",
+        "State": "Madhya Pradesh",
+        "CFP": {
+            "Status": "0",
+            "Link": "",
+            "LastDate": ""
+        }
+    }
+]
