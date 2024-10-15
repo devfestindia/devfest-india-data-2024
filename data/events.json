@@ -1,21 +1,21 @@
 [
     {
-        "City": "Indore",
-        "CommunityName": "GDG Indore",
-        "DevFestName": "DevFest Indore",
+        "City": "Salem",
+        "CommunityName": "GDG Salem",
+        "DevFestName": "DevFest Salem",
         "Days": "1",
-        "StartingDate": "2024-12-07",
-        "EndingDate": "2024-12-07",
-        "Venue": "Indore",
-        "Description": "",
-        "EventLink": "",
-        "CommunityPage": "",
+        "StartingDate": "2024-11-09",
+        "EndingDate": "2024-11-09",
+        "Venue": "Sona College of Technology, Junction Main Rd, Salem, Tamil Nadu 636005",
+        "Description": "Join us at Devfest Salem for an exciting day of innovation, interactive workshops, and insightful sessions with leading experts in the industry! Dive into the world of cutting-edge software development, AI advancements, and much more. This is your chance to engage with the tech community, expand your knowledge, and build valuable connections.",
+        "EventLink": "https://gdg.community.dev/events/details/google-gdg-salem-presents-devfest-salem-2024/",
+        "CommunityPage": "https://gdg.community.dev/gdg-salem/",
         "Visible": "true",
-        "State": "Madhya Pradesh",
+        "State": "Tamilnadu",
         "CFP": {
-            "Status": "0",
-            "Link": "",
-            "LastDate": ""
+            "Status": "1",
+            "Link": "https://forms.gle/qtYFJpFqRQE2TmjWA",
+            "LastDate": "2024-10-20"
         }
     }
 ]
