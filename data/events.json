@@ -1,5 +1,24 @@
 [
     {
+        "City": "Chennai",
+        "CommunityName": "GDG Chennai",
+        "DevFestName": "DevFest Chennai",
+        "Days": "1",
+        "StartingDate": "2024-10-05",
+        "EndingDate": "2024-10-05",
+        "Venue": "IIT-M Research Park",
+        "Description": "Chennai's favorite tech conference",
+        "EventLink": "https://devfest.gdgchennai.in",
+        "CommunityPage": "https://gdg.community.dev/gdg-chennai",
+        "Visible": "true",
+        "State": "Tamil Nadu",
+        "CFP": {
+            "Status": "0",
+            "Link": "https://bit.ly/speakers-assemble",
+            "LastDate": "2024-09-13"
+        }
+    },
+    {
         "City": "Indore",
         "CommunityName": "GDG Indore",
         "DevFestName": "DevFest Indore",
