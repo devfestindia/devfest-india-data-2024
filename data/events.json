@@ -55,5 +55,24 @@
             "Link": "https://forms.gle/qtYFJpFqRQE2TmjWA",
             "LastDate": "2024-10-20"
         }
+    },
+    {
+        "City": "Rajkot",
+        "CommunityName": "GDG Rajkot",
+        "DevFestName": "GDG Rajkot DevFest 2024",
+        "Days": "1",
+        "StartingDate": "2024-11-17",
+        "EndingDate": "2024-11-17",
+        "Venue": "Rajkot, Gujarat, India",
+        "Description": "GDG Rajkot DevFest 2024 is the hottest spot in the town for tech enthusiasts, developers, and innovators to come together for a day of learning, networking, and sharing.",
+        "EventLink": "https://gdg.community.dev/events/details/google-gdg-rajkot-presents-gdg-rajkot-devfest-2024/",
+        "CommunityPage": "https://gdg.community.dev/gdg-rajkot/",
+        "Visible": "true",
+        "State": "Gujarat",
+        "CFP": {
+            "Status": "0",
+            "Link": "https://forms.gle/77Uem6E3QUqEUf7w8",
+            "LastDate": "2024-10-31"
+        }
     }
 ]
