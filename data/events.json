@@ -33,22 +33,23 @@
         "State": "Andhra Pradesh"
     },
     {
-        "City": "Indore",
-        "CommunityName": "GDG Indore",
-        "DevFestName": "DevFest Indore",
+
+        "City": "Rajkot",
+        "CommunityName": "GDG Rajkot",
+        "DevFestName": "GDG Rajkot DevFest 2024",
         "Days": "1",
-        "StartingDate": "2024-12-07",
-        "EndingDate": "2024-12-07",
-        "Venue": "Indore",
-        "Description": "",
-        "EventLink": "",
-        "CommunityPage": "",
+        "StartingDate": "2024-11-17",
+        "EndingDate": "2024-11-17",
+        "Venue": "Rajkot, Gujarat, India",
+        "Description": "GDG Rajkot DevFest 2024 is the hottest spot in the town for tech enthusiasts, developers, and innovators to come together for a day of learning, networking, and sharing.",
+        "EventLink": "https://gdg.community.dev/events/details/google-gdg-rajkot-presents-gdg-rajkot-devfest-2024/",
+        "CommunityPage": "https://gdg.community.dev/gdg-rajkot/",
         "Visible": "true",
-        "State": "Madhya Pradesh",
+        "State": "Gujarat",
         "CFP": {
             "Status": "0",
-            "Link": "",
-            "LastDate": ""
+            "Link": "https://forms.gle/77Uem6E3QUqEUf7w8",
+            "LastDate": "2024-10-31"
         }
     },
     {
@@ -71,22 +72,60 @@
         }
     },
     {
-        "City": "Rajkot",
-        "CommunityName": "GDG Rajkot",
-        "DevFestName": "GDG Rajkot DevFest 2024",
+        "City": "Coimbatore",
+        "CommunityName": "GDG Coimbatore",
+        "DevFestName": "DevFest Coimbatore",
         "Days": "1",
-        "StartingDate": "2024-11-17",
-        "EndingDate": "2024-11-17",
-        "Venue": "Rajkot, Gujarat, India",
-        "Description": "GDG Rajkot DevFest 2024 is the hottest spot in the town for tech enthusiasts, developers, and innovators to come together for a day of learning, networking, and sharing.",
-        "EventLink": "https://gdg.community.dev/events/details/google-gdg-rajkot-presents-gdg-rajkot-devfest-2024/",
-        "CommunityPage": "https://gdg.community.dev/gdg-rajkot/",
+        "StartingDate": "2024-12-07",
+        "EndingDate": "2024-12-07",
+        "Venue": "Dr.N.G.P. Arts and Science College",
+        "Description": "DevFest 2024: A vibrant global tech conference where developers, enthusiasts, and innovators unite to learn, connect, and celebrate all things technology.",
+        "EventLink": "https://devfest24.gdgcbe.com/",
+        "CommunityPage": "https://gdg.community.dev/gdg-coimbatore/",
         "Visible": "true",
-        "State": "Gujarat",
+        "State": "Tamilnadu",
         "CFP": {
-            "Status": "0",
-            "Link": "https://forms.gle/77Uem6E3QUqEUf7w8",
-            "LastDate": "2024-10-31"
+            "Status": "1",
+            "Link": "https://devfest24.gdgcbe.com/call-for-speakers",
+            "LastDate": "2024-10-30"
+        }
+    },
+    {
+        "City": "Kochi",
+        "CommunityName": "GDG Kochi",
+        "DevFestName": "DevFest Kochi",
+        "Days": "1",
+        "StartingDate": "2024-10-26",
+        "EndingDate": "2024-10-26",
+        "Venue": "XIME, Kochi",
+        "Description": "Join us at Devfest Kochi for a day of tech talks, hands-on workshops, and networking with industry experts! Explore the latest in software development, AI, and more. Don’t miss this chance to connect with the tech community and learn from the best.",
+        "EventLink": "https://devfest24.gdgcbe.com/",
+        "CommunityPage": "https://gdg.community.dev/gdg-cochin/",
+        "Visible": "true",
+        "State": "Kerala",
+        "CFP": {
+            "Status": "1",
+            "Link": "https://sessionize.com/devfest2024/",
+            "LastDate": "2024-10-20"
+        }
+    },
+    {
+        "City": "Noida",
+        "CommunityName": "GDG Noida",
+        "DevFestName": "DevFest Noida",
+        "Days": "1",
+        "StartingDate": "2024-12-07",
+        "EndingDate": "2024-12-07",
+        "Venue": "Expo Inn, Greater Noida",
+        "Description": "Our flagship annual fest, DevFest Noida, is the ultimate celebration of technology, bringing together professionals and students, communities and leaders, tech giants, and emerging startups, to foster deeper connections with technology as well as one another. ",
+        "EventLink": "https://www.commudle.com/communities/gdg-noida/events/devfest-noida-2024",
+        "CommunityPage": "https://gdg.community.dev/gdg-noida/",
+        "Visible": "true",
+        "State": "Uttar Pradesh",
+        "CFP": {
+            "Status": "1",
+            "Link": "https://www.commudle.com/fill-form/2842",
+            "LastDate": "2024-11-09"
         }
     }
 ]
