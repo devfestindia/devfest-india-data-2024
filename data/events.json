@@ -19,6 +19,20 @@
         }
     },
     {
+        "City": "Vizag",
+        "CommunityName": "GDG Vizag",
+        "DevFestName": "DevFest Vizag",
+        "Days": "2",
+        "StartingDate": "2024-10-06",
+        "EndingDate": "2024-10-07",
+        "Venue": "GITAM University",
+        "Description": "Vizag's favorite tech conference",
+        "EventLink": "https://devfest.vizag.dev",
+        "CommunityPage": "https://gdg.community.dev/gdg-vizag",
+        "Visible": "true",
+        "State": "Andhra Pradesh"
+    },
+    {
         "City": "Indore",
         "CommunityName": "GDG Indore",
         "DevFestName": "DevFest Indore",
