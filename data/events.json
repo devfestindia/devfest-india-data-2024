@@ -127,5 +127,24 @@
             "Link": "https://www.commudle.com/fill-form/2842",
             "LastDate": "2024-11-09"
         }
+    },
+    {
+      "City": "Ahmedabad",
+      "CommunityName": "GDG Ahmedabad",
+      "DevFestName": "DevFest Ahmedabad",
+      "Days": "1",
+      "StartingDate": "2024-11-24",
+      "EndingDate": "2024-11-24",
+      "Venue": "Ahmedabad",
+      "Description": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
+      "EventLink": "https://devfest.gdgahmedabad.com/",
+      "CommunityPage": "https://gdg.community.dev/gdg-ahmedabad/",
+      "Visible": "true",
+      "State": "Gujarat",
+      "CFP": {
+        "Status": "1",
+        "Link": "https://sessionize.com/gdg-ahmedabad-devfest-2024/",
+        "LastDate": "2024-10-31"
+      }
     }
 ]
