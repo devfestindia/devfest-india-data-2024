@@ -127,5 +127,24 @@
             "Link": "https://www.commudle.com/fill-form/2842",
             "LastDate": "2024-11-09"
         }
+    },
+    {
+      "City": "Siliguri",
+      "CommunityName": "GDG Siliguri",
+      "DevFestName": "DevFest Siliguri",
+      "Days": "1",
+      "StartingDate": "2024-30-11",
+      "EndingDate": "2024-30-11",
+      "Venue": "ROYAL SAROVAR PORTICO, Siliguri",
+      "Description": "Join us for an immersive and inspiring tech experience at DevFest Siliguri 2024! This year, we're bringing together tech enthusiasts, developers, and innovators from all around the region to explore the latest in technology, share knowledge, and network with like-minded individuals.",
+      "EventLink": "https://www.commudle.com/communities/google-developers-group-siliguri/events/devfest-siliguri-2024",
+      "CommunityPage": "https://gdg.community.dev/gdg-siliguri/",
+      "Visible": "true",
+      "State": "West Bengal",
+      "CFP": {
+        "Status": "1",
+        "Link": "https://www.commudle.com/fill-form/2914",
+        "LastDate": "2024-10-11"
+      }
     }
 ]
