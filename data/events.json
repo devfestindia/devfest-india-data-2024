@@ -30,10 +30,14 @@
         "EventLink": "https://devfest.vizag.dev",
         "CommunityPage": "https://gdg.community.dev/gdg-vizag",
         "Visible": "true",
-        "State": "Andhra Pradesh"
+        "State": "Andhra Pradesh",
+        "CFP": {
+            "Status": "0",
+            "Link": "",
+            "LastDate": ""
+        }
     },
     {
-
         "City": "Rajkot",
         "CommunityName": "GDG Rajkot",
         "DevFestName": "GDG Rajkot DevFest 2024",
@@ -47,7 +51,7 @@
         "Visible": "true",
         "State": "Gujarat",
         "CFP": {
-            "Status": "0",
+            "Status": "1",
             "Link": "https://forms.gle/77Uem6E3QUqEUf7w8",
             "LastDate": "2024-10-31"
         }
@@ -129,22 +133,41 @@
         }
     },
     {
-      "City": "Ahmedabad",
-      "CommunityName": "GDG Ahmedabad",
-      "DevFestName": "DevFest Ahmedabad",
-      "Days": "1",
-      "StartingDate": "2024-11-24",
-      "EndingDate": "2024-11-24",
-      "Venue": "Ahmedabad",
-      "Description": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
-      "EventLink": "https://devfest.gdgahmedabad.com/",
-      "CommunityPage": "https://gdg.community.dev/gdg-ahmedabad/",
-      "Visible": "true",
-      "State": "Gujarat",
-      "CFP": {
-        "Status": "1",
-        "Link": "https://sessionize.com/gdg-ahmedabad-devfest-2024/",
-        "LastDate": "2024-10-31"
-      }
+        "City": "Ahmedabad",
+        "CommunityName": "GDG Ahmedabad",
+        "DevFestName": "DevFest Ahmedabad",
+        "Days": "1",
+        "StartingDate": "2024-11-24",
+        "EndingDate": "2024-11-24",
+        "Venue": "Ahmedabad",
+        "Description": "GDG DevFest Ahmedabad brings together the world class experts in Android, Web and Cloud technologies to Ahmedabad for sessions, workshops and showcases.",
+        "EventLink": "https://devfest.gdgahmedabad.com/",
+        "CommunityPage": "https://gdg.community.dev/gdg-ahmedabad/",
+        "Visible": "true",
+        "State": "Gujarat",
+        "CFP": {
+            "Status": "1",
+            "Link": "https://sessionize.com/gdg-ahmedabad-devfest-2024/",
+            "LastDate": "2024-10-31"
+        }
+    },
+    {
+        "City": "Siliguri",
+        "CommunityName": "GDG Siliguri",
+        "DevFestName": "DevFest Siliguri",
+        "Days": "1",
+        "StartingDate": "2024-30-11",
+        "EndingDate": "2024-30-11",
+        "Venue": "ROYAL SAROVAR PORTICO, Siliguri",
+        "Description": "Join us for an immersive and inspiring tech experience at DevFest Siliguri 2024! This year, we're bringing together tech enthusiasts, developers, and innovators from all around the region to explore the latest in technology, share knowledge, and network with like-minded individuals.",
+        "EventLink": "https://www.commudle.com/communities/google-developers-group-siliguri/events/devfest-siliguri-2024",
+        "CommunityPage": "https://gdg.community.dev/gdg-siliguri/",
+        "Visible": "true",
+        "State": "West Bengal",
+        "CFP": {
+            "Status": "1",
+            "Link": "https://www.commudle.com/fill-form/2914",
+            "LastDate": "2024-10-11"
+        }
     }
 ]
