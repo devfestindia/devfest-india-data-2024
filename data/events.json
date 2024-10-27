@@ -169,5 +169,24 @@
             "Link": "https://www.commudle.com/fill-form/2914",
             "LastDate": "2024-10-11"
         }
+    },
+    {
+        "City": "Udaipur",
+        "CommunityName": "GDG Udaipur",
+        "DevFestName": "DevFest Udaipur 2024",
+        "Days": "1",
+        "StartingDate": "2024-11-24",
+        "EndingDate": "2024-11-24",
+        "Venue": "Ramada Encore By Wyndham Udaipur Roopnagar",
+        "Description": "DevFest Udaipur will feature talks on cutting-edge technologies like web development, mobile app development, artificial intelligence, and cloud computing.",
+        "EventLink": "https://gdg.community.dev/events/details/google-gdg-udaipur-presents-devfest-udaipur-2024/",
+        "CommunityPage": "https://gdg.community.dev/gdg-udaipur/",
+        "Visible": "true",
+        "State": "Rajasthan",
+        "CFP": {
+            "Status": "1",
+            "Link": "https://sessionize.com/devfest-udaipur-2024",
+            "LastDate": "2024-11-15"
+        }
     }
 ]
