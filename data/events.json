@@ -245,5 +245,24 @@
         "Link": "",
         "LastDate": ""
     }
+},
+{
+    "City": "Indore",
+    "CommunityName": "GDG Indore",
+    "DevFestName": "DevFest Indore 2024",
+    "Days": "1",
+    "StartingDate": "2024-12-21",
+    "EndingDate": "2024-12-21",
+    "Venue": "Hotel Sayaji, Indore ",
+    "Description": "This year, GDG Indore brings you different tracks to choose from! DevFest Indore 2024 has got many tracks like AI/ML, Web, Cloud, Mobile, Startups and more, to cater for the interest of every developer. And we're open for all! From novice beginners to working professionals, everyone is welcome to be a part of this year's biggest tech event.",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-indore-presents-devfest-indore-2024/",
+    "CommunityPage": "https://gdg.community.dev/gdg-indore/",
+    "Visible": true,
+    "State": "Madhya Pradesh",
+    "CFP": {
+        "Status": "1",
+        "Link": "https://sessionize.com/devfest-indore-2024/",
+        "LastDate": "2024-12-07"
+    }
 }
 ]
