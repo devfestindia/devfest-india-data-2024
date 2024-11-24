@@ -226,5 +226,24 @@
           "Link": "https://sessionize.com/devfest-jaipur-2024",
           "LastDate": "2024-11-05"
       }
-  }
+  },
+  {
+    "City": "Jammu",
+    "CommunityName": "GDG Jammu",
+    "DevFestName": "DevFest Jammu 2024",
+    "Days": "1",
+    "StartingDate": "2024-12-21",
+    "EndingDate": "2024-12-21",
+    "Venue": "Jammu ",
+    "Description": "DevFest Jammu 2024 is the ultimate tech gathering by GDG Jammu, uniting developers, enthusiasts, and experts for hands-on sessions, workshops, and networking. Dive into AI, Cloud, Web, and Mobile tech, connect, compete, and be inspired. Don’t miss out!",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-jammu-presents-devfest-jammu-2024/",
+    "CommunityPage": "https://gdg.community.dev/gdg-jammu/",
+    "Visible": true,
+    "State": "Jammu & Kashmir",
+    "CFP": {
+        "Status": "0",
+        "Link": "",
+        "LastDate": ""
+    }
+}
 ]
