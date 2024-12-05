@@ -302,5 +302,43 @@
         "Link": "https://gdg.community.dev/gdg-dehradun/",
         "LastDate": "2024-11-22"
     }
+  },
+    {
+    "City": "Surat",
+    "CommunityName": "GDG Surat",
+    "DevFestName": "DevFest Surat 2024",
+    "Days": "1",
+    "StartingDate": "2024-12-15",
+    "EndingDate": "2024-12-15",
+    "Venue": "Mad Over Grill",
+    "Description": "Come and join us at #DevFestSurat 2024 to witness the best of tech, explore and learn about Flutter, Kotlin, Machine Learning, Tensorflow, Google Cloud, Blockchain, Firebase, AngularJS, ARCore, Actions on Google etc. and experience the magnificent atmosphere with tech all around you.",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-surat-presents-gdg-devfest-surat-2024/",
+    "CommunityPage": "https://gdg.community.dev/gdg-surat/",
+    "Visible": true,
+    "State": "Gujarat",
+    "CFP": {
+        "Status": "1",
+        "Link": "https://sessionize.com/gdg-surat-devfest-2024",
+        "LastDate": "2024-12-05"
+    }
+  },
+    {
+    "City": "Ranchi",
+    "CommunityName": "GDG Ranchi",
+    "DevFestName": "DevFest Ranchi 2024",
+    "Days": "1",
+    "StartingDate": "2024-10-19",
+    "EndingDate": "2024-10-19",
+    "Venue": "Jharkhand University of Technology, Science & Technology Campus, Sirkha Toli, Kali Nagar, Namkum, Ranchi, Barganwa, Jharkhand 834010",
+    "Description": "DevFests are local tech conferences hosted by Google Developer Groups (GDG) around the world. These are community-led events organized for local developers to connect, learn, and innovate together.This year, GDG Ranchi brings you different tracks to choose from! DevFest Ranchi 2024 has many tracks like AI/ML, Web, and more, to cater to the interest of every developer.",
+    "EventLink": "https://gdg.community.dev/events/details/google-gdg-ranchi-presents-devfest-2024-ranchi/",
+    "CommunityPage": "https://gdg.community.dev/gdg-ranchi/",
+    "Visible": true,
+    "State": "Jharkhand",
+    "CFP": {
+        "Status": "0",
+        "Link": "",
+        "LastDate": ""
+    }
   }
 ]
