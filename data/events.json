@@ -1,5 +1,24 @@
 [
     {
+        "City": "Hyderabad",
+        "CommunityName": "GDG Hyderabad",
+        "DevFestName": "DevFest Hyderabad",
+        "Days": "1",
+        "StartingDate": "2024-12-21",
+        "EndingDate": "2024-12-21",
+        "Venue": "Centenary Convention Hall, Engineering Staff College of India (ESCI), Gachibowli, Hyderabad",
+        "Description": "DevFest Hyderabad is the biggest technical conference in Hyderabad which brings different communities and Technologies together. From a student to an architect, everyone can be a part of this event making it an amazing opportunity to network, create connects and grow together.",
+        "EventLink": "https://gdg.community.dev/events/details/google-gdg-hyderabad-presents-gdg-hyderabad-devfest-2024",
+        "CommunityPage": "https://gdg.community.dev/gdg-hyderabad/",
+        "Visible": "true",
+        "State": "Telangana",
+        "CFP": {
+            "Status": "0",
+            "Link": "https://gdg.community.dev/gdg-hyderabad/",
+            "LastDate": "2024-11-30"
+        }
+    },
+    {
         "City": "Chennai",
         "CommunityName": "GDG Chennai",
         "DevFestName": "DevFest Chennai",
